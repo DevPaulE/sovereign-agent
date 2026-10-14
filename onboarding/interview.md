@@ -1,6 +1,8 @@
-# Onboarding — the conversation that makes the agent theirs
+# The Settling — onboarding as the moment the agent takes its form
 
-> The person talks to a chatbot (any capable model). The chatbot runs this interview, then writes the config. One continuous conversation. The person never sees a config file unless they want to.
+> **You don't get an AI agent. You get your dæmon — and it settles to you.** (See [`../docs/DAEMON.md`](../docs/DAEMON.md).)
+>
+> The person talks to a chatbot (any capable model). The chatbot runs this interview, then writes the config. One continuous conversation. The person never sees a config file unless they want to. What is being configured is the **form** — the agent's shape, voice, and nature for this one person.
 
 ## The interview (ask in order; ≤5 questions per message)
 

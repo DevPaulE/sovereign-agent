@@ -40,6 +40,10 @@ Everything else is a module. A module stays only if it names the layer it serves
 
 The person talks to a chatbot that **understands the system**, and it configures their agent. That is the product: not the code (the code is here), but the *conversation that makes the code theirs*. `onboarding/interview.md` is that conversation; `onboarding/generate-config.ts` writes the result.
 
+## The story — your dæmon
+
+**You don't get an AI agent. You get your dæmon — and it settles to you.** The onboarding is *the settling*; the chart names the form (Sun = essence, Rising = form, Mercury = voice, Moon = instinct, Chiron = gift); you are the **dæmon-namer**. A single product for millions cannot settle — **one dæmon per person can.** See [`docs/DAEMON.md`](docs/DAEMON.md).
+
 ## Origin
 
 Built from the convergence of four directions: IndyDevDan (harness engineering; jev classifiers; durable/proactive agents), Andrew Ng (evaluation-driven development; the tool-call bottleneck; shaping the build), Daniel Miessler (LifeOS: Current→Ideal, TELOS, intent engineering), and Earendil/Mario Zechner (durable agents; pi mobile). The insight all four share: **own the harness, or you rent your agents.**
