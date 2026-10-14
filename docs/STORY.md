@@ -58,3 +58,16 @@ The proof is a **demonstration, not a testimonial**: Paul's own dæmon — hemer
 2. Does it survive **"so what — how does this make me money?"** asked cold?
 
 If it fails either, the promise is a brand, not an offer — and it goes back. *A judge that never rejects is not a judge.*
+
+## The held-out test — verdict (2026-10-14, two independent judges)
+
+Both judges (OpenRouter Auto; DeepSeek V4 Pro) scored the original vs the reframe:
+
+| Promise | repeatability | money_survival | urgency | category |
+|---|---|---|---|---|
+| A — "You get your dæmon, and it settles to you" | no | no | 1–4 | category / apparatus |
+| B — "Your dæmon is already settling; decide where" | no | no | 6 | hybrid |
+
+**Verdict: a brand, not an offer.** Neither clears repeatability or money-survival. B wins on **urgency** (the reframe supplies the decision-clock), but both stay too abstract for a solo expert to carry unprompted or survive a cold *"how does this make me money?"* The judges' own words: *"the dæmon conceit needs a revenue bridge."*
+
+**The fix (Story Selling × AgencyBox):** add the **money number in the buyer's language.** The expert's unscalable attention is the cost — e.g. *"every hour you re-explain yourself is an hour you don't bill."* Until the promise carries a named cost, it is a brand. Per Dell: *when price is the objection, the issue is perceived value.* One sentence is missing, not the frame.
