@@ -40,3 +40,11 @@ This is where the earlier judge's verdict pays: the dæmon promise failed the mo
 ## The positioning line
 
 > **"I'm a conversation engineer. Most of your business lives in your head — I install a system that captures it, a dæmon that keeps it running when you step out, and a data room that proves what it's worth. You don't rent a strategist; you keep the engine."**
+
+## The data-backed line (PROFG-DATA, DSH-extracted 2026-10-14)
+
+Every figure timestamped from the transcript; the broker mapping explicitly marked ours. The one line for the room:
+
+> **"Galloway prices narrative at $400k–$775k and shows words-only supply collapsing into 74% slop — so the story is only worth what the proof behind it is. The proof (the gap report) is the thing we install."**
+
+The strongest single mapping (radiology): the machine-readable slice was only **36%** of the job — yet removing it made the profession *worth more* (+55% staff, +48% pay). **A words-only strategist sells the visible third. The conversation engineer installs the system that covers the other 64%** — the dæmon-produced data room, the DDG gap report — the part that moves a deal's price.
