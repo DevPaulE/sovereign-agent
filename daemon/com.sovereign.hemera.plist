@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.sovereign.hemera</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/paulm6/.nvm/versions/node/v24.21.0/bin/node</string>
+        <string>/Users/paulm6/dpi-work/hemera/daemon.mjs</string>
+    </array>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <true/>
+    <key>WorkingDirectory</key>
+    <string>/Users/paulm6/dpi-work/hemera</string>
+    <key>StandardOutPath</key>
+    <string>/tmp/hemera-stdout.log</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/hemera-stderr.log</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+{
+  "default": "m6",
+  "agents": {
+    "m6": {
+      "kind": "pi",
+      "workspace": "/Users/paulm6/dpi-work/workspace",
+      "timeout_s": 300,
+      "model": "ollama/glm-5.3-flash:cloud"
+    },
+    "air": {
+      "kind": "ssh",
+      "host": "air",
+      "timeout_s": 300
+    }
+  }
+}

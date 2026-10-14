@@ -1,0 +1,10 @@
+{
+  "name": "pi-lifeos",
+  "private": true,
+  "description": "Paul's minimal LifeOS for pi: skill shims, moves as prompt templates. Personal layer stays local.",
+  "keywords": ["pi-package"],
+  "pi": {
+    "skills": ["./skills"],
+    "prompts": ["./prompts/*.md"]
+  }
+}

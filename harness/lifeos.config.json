@@ -1,0 +1,39 @@
+{
+  "$comment": "The one file that customizes pi-lifeos. Edit, then run: bun ~/Projects/toolbelt/pi-lifeos/build.ts (or /lifeos-rebuild inside pi), then /reload.",
+  "principal": "Paul",
+  "assistant": "Aria",
+  "paths": {
+    "skillsRoot": "~/.claude/skills",
+    "personal": "~/.config/LIFEOS/USER",
+    "lifeos": "~/.claude",
+    "toolbelt": "~/Projects/toolbelt",
+    "upstream": "~/Reference/LifeOS-upstream"
+  },
+  "skills": {
+    "engineering-interpreter": "_ENGINEERINGINTERPRETER",
+    "cognitive-stack-code": "cognitive-stack-code",
+    "interceptor": "Interceptor",
+    "isa": "ISA",
+    "knowledge": "Knowledge",
+    "harvest": "Harvest"
+  },
+  "stockSkills": {
+    "$comment": "Skills pi auto-discovers in ~/.agents/skills (the stock LifeOS set). All are hidden except these, to save context on local models. Add a folder name here to bring one back.",
+    "keep": [
+      "cognitive-harness"
+    ]
+  },
+  "model": {
+    "$comment": "Default model pi boots on. Switch any session with Ctrl+P or /model. jev/auto: extensions/jev-router.ts (ISA C14-C16).",
+    "default": "openrouter/deepseek/deepseek-v4-pro",
+    "router": {
+      "$comment": "jev/auto routing (ISA C15-C17). Jev gets the user prompt alone, truncated (A5). build/agent-orchestration -> buildRoute, everything else -> otherRoute. Jev failure/timeout/missing -> otherRoute, never blocks a turn (C16). Every decision appends to log/jev-router.jsonl beside this file (C17). 2026-10-14 Paul: build route uses OpenRouter Auto -- no fixed builder.",
+      "classifier": "openrouter/~typesafe/jev-latest",
+      "buildRoute": "openrouter/auto",
+      "otherRoute": "openrouter/deepseek/deepseek-v4-pro",
+      "confidenceThreshold": 0.6,
+      "timeoutMs": 1500,
+      "maxPromptChars": 2000
+    }
+  }
+}

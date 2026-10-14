@@ -1,0 +1,7 @@
+---
+name: engineering-interpreter
+description: "Turns Paul's rough intent — a brainstorm, John's feedback, course-derived ideas, architecture notes, a prior handoff — into one versioned Engineering Work Order in Foundry, then governs execution — autonomous through safe mechanical phases, visible cockpit, hard stop at human-authority gates. USE WHEN Paul describes in his own words what he wants built, hands over customer feedback or a brainstorm to turn into work, says work order, engineering work order, interpret this, turn this into a build, what do we build from this, start a Shop OS build, resume a build, pick up where we left off, what is the next safe action, am I allowed to do this yet, hand this to a fresh session. NOT FOR sorting raw client feedback into the four Foundry Loop dispositions (that loop runs by hand, FOUNDRY-LOOP.md), authoring eval cases (use /gate in svautopros), creating LifeOS skills (use CreateSkill), or a non-build decision needing a mental model (use cognitive-stack-code directly)."
+---
+This is a pointer. Read `/Users/paulmac/.claude/skills/_ENGINEERINGINTERPRETER/SKILL.md` now and follow it.
+Its supporting files (Workflows/, Tools/, references/) sit beside it in `/Users/paulmac/.claude/skills/_ENGINEERINGINTERPRETER/`; resolve relative paths from there.
+It was written for Claude Code: where it names tools pi lacks (Agent, Skill, Task, WebSearch), do the work inline with bash and read, or say plainly what you can't do here.
