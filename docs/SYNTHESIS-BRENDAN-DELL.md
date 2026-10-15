@@ -31,3 +31,18 @@ Dell's starter-offer syntax, filled in: **"I help owner-led services businesses 
 1. This week: 25-name warm list → 10 "show me you know me" messages offering a 14-day, $5K fixed-scope dæmon install.
 2. Offer = 20+ hours/week reclaimed, proven on their numbers; positioning = "I install and prove," never "AI/FDE/agent."
 3. Escape hatch: if 10 messages get zero replies in 7 days, it's target/offer/message — swap the niche, keep the system (`2186577507.txt`).
+
+---
+
+## RESOLVED — the offer fork (cognitive harness, turn 25)
+
+**The fork was false.** The two offers sell to the same buyer at two sizes: the **install** (offer: what you charge) and the **data room** (proof: what closes). They sequence; they don't compete.
+
+**Lead offer (verbatim):**
+> *"I install a working agent inside your business in 14 days — you get 20+ hours a week back — for $5,000 fixed. I prove it on your own numbers."*
+
+**Proof — two doors, same gate:** exit-bound owner → the verified data room (`GATE.md` + `check-ddg.py`); otherwise → one recovered week, measured.
+
+**Channel for the first client:** warm, not broker. A 25-name warm list, 10 personalized messages. The broker is a channel added **after** one case study.
+
+**Rival's upgrade (Dell's productization):** make the install as productized as the gate — fixed scope (one workflow), fixed price ($5,000), fixed time (14 days), fixed outcome (recovered hours).
