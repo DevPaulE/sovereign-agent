@@ -30,12 +30,15 @@ One link. One page. Built from what already exists.
 
 ## Task 2 — The resume (AI-native framing)
 
+**Corpus source (pending download):** Milewalk Academy — Andrew LaCivita's career/interview training. Drive folder `1rn3p6MqCjhQDV8d5sHbPDddxWc1hhqbG`; access blocked for agents (JS shell + Drive API disabled), so Paul downloads the ZIP to `~/Documents/milewalk/` and it runs through the same extraction pipeline as the Dell corpus (`tools/harvest-kajabi-course.sh` pattern). Use for: the resume structure, the career-profile line, and the interview answers.
+
 Not a job history — a **system history**. Ng's filter is the spine: *AI is the native environment.*
 
 - **Top line:** what he does now — *"I design, build, and run sovereign AI systems for owner-led businesses."*
 - **Projects, not roles:** the dæmon, the M6 lab, the harvest pipeline, the shop bot (svautopros), the fusion harness. Each with a *verifiable* number.
 - **The skills list:** agentic-engineering (harness, context, model, prompt, tools); local/sovereign compute; eval + gates; multi-agent orchestration.
 - **Fill `RESUME.md`** and export to PDF.
+- **Frameworks:** LaCivita's resume-career-profile structure once the Milewalk corpus is extracted; until then, lead with the system history above.
 
 ## Task 3 — Apply (3 roles, in priority)
 
