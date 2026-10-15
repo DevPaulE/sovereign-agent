@@ -43,7 +43,7 @@ Paul is building a solo agentic-engineering practice. The product is a **dæmon*
 - **Meta Muse** — personal AI agent. **Muse Wonder** models add **Active Memory** (carries what matters across conversations) and **Active Focus** (keeps working, recovers, **asks and checks in before following through on anything important** — the same rule as Paul's gate).
 - **OpenAI Dots** — persistent agent, *agents-as-a-service*: subscribe, don't own. The counter-position is sovereignty. (Ksenia Se kept her local OpenClaw.)
 - Deep mechanics (how each does memory/focus; what's replicable locally) = the open DSH research task.
-- **The uncle** = junto member #1; problem = scheduling + tasks; currently ChatGPT/Grok; a Tesla in Manila. The app = upload files → agent → result, on exe.dev, processed by the M6.
+- **The uncle ("Bong", Manila)** = junto member #1; problem = scheduling + tasks; currently ChatGPT/Grok; a Tesla. The app = upload files → agent → result, on exe.dev, processed by the M6. **Distinct from cousin John Paul (San Jose)** = SVAutoPros / ShopOS, the existing live proof and client #1 — the running install, not the pilot.
 
 ## Open items
 

@@ -1,6 +1,8 @@
 # UNCLE PILOT — the first junto member, end to end
 
-> Family, in Manila. Problem: **scheduling + managing different tasks**. Today: ChatGPT/Grok. Owns a Tesla. This is junto member #1 — a **case study**, not a sales proof, and he does **not** skip the gate.
+> **Uncle "Bong", in Manila.** Problem: **scheduling + managing different tasks**. Today: ChatGPT/Grok. Owns a Tesla. This is junto member #1 — a **case study**, not a sales proof, and he does **not** skip the gate.
+>
+> **Do not confuse him with cousin John Paul** (San Jose) — owner of SVAutoPros, the *existing live proof* and client #1 (`Companies/svautopros.md`, `People/john.md`). Two different people, two different jobs: Bong = scheduling/tasks pilot; John Paul = the running ShopOS install that is already the demo. Bong is the case study; John Paul is the proof.
 
 ## His offer (one line, his sentence)
 
